@@ -18,8 +18,8 @@ practical skills in backend, frontend, authentication, and database integration.
 
 ## Planned Features
 
-- [] User authentication
-- [] Adding expenses
-- [] Deleting/Editing expenses
-- [] View list of expenses
-- [] View expenses by category
+- [ ] User authentication
+- [ ] Adding expenses
+- [ ] Deleting/Editing expenses
+- [ ] View list of expenses
+- [ ] View expenses by category
